@@ -728,4 +728,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Project specific
+dist/
+specification.yaml
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,intellij,intellij+iml,intellij+all,goland+iml,goland+all,webstorm,webstorm+iml,webstorm+all,goland,go,terraform
